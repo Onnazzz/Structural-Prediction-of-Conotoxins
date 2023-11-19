@@ -1,6 +1,5 @@
 # Structural-Prediction-of-Conotoxins
 
-The instructions of the practice is in the Practice_Instructions.pdf document.
 
 The final report is in the Leyva_Onna_Reporte.pdf document.
 
