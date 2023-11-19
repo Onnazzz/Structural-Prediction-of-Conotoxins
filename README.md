@@ -6,6 +6,9 @@ The final report is in the Leyva_Onna_Reporte.pdf document.
 
 The Excel_Results_Onna_Leyva.xlsx document, contain a resume of the principal results.
 
+Objective: 
+
+Perform structural prediction using AlphaFold2 and RoseTTAFold from primary sequences of five different conotoxin superfamilies (one from each family).
 
 Abstract: 
 
@@ -13,9 +16,6 @@ Conotoxins or conopeptides are neurotoxic peptides produced by approximately 800
 
 Given their high specificity, they have been used to determine the selectivity of certain drugs to ion channels. They have also been used in the synthesis of powerful analgesics that block the release of pain neurotransmitters, preventing their spread to the brain.
 
-Objective: 
-
-Perform structural prediction using AlphaFold2 and RoseTTAFold from primary sequences of five different conotoxin superfamilies (one from each family).
 
 Conclution: 
 
